@@ -1,0 +1,10 @@
+[
+  {
+    "case_id": "CASE-150003",
+    "timestamp": "2026-10-22T09:48:30.339762+00:00",
+    "original_model_verdict": "Approve",
+    "human_override_verdict": "Query",
+    "reviewer": "Preetham Upputuri (Data Science Intern)",
+    "notes": "Adjudicated as Query following standard protocol."
+  }
+]

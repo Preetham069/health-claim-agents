@@ -1,0 +1,11 @@
+code,description,type,category
+K35.80,Unspecified acute appendicitis,diagnosis,Surgical
+H25.9,Age-related cataract unspecified,diagnosis,Ophthalmology
+M17.11,Unilateral primary osteoarthritis right knee,diagnosis,Orthopedic
+I21.9,Acute myocardial infarction unspecified,diagnosis,Cardiology
+E11.9,Type 2 diabetes mellitus without complications,diagnosis,Endocrine
+47.09,Other appendectomy,procedure,Surgical
+13.41,Phacoemulsification and aspiration of cataract,procedure,Ophthalmology
+81.54,Total knee replacement,procedure,Orthopedic
+36.06,Insertion of coronary artery stent,procedure,Cardiology
+99.29,Injection or infusion of other therapeutic substance,procedure,General

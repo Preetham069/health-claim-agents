@@ -1,0 +1,7 @@
+Hospital: City Care Hospital
+Policy Number: CARE-SHIELD-2026
+Age: 48
+Gender: Male
+Diagnosis Code: K35.80
+Procedure Code: 47.09
+Estimated Cost: 55000

@@ -1,0 +1,16 @@
+PRE-AUTHORIZATION REQUEST FORM
+Hospital Name: City Care Hospital
+Policy Number: CARE-SHIELD-2026
+Patient Name: Rajesh Kumar
+Age: 46
+Gender: Male
+Contact: +91 98765 43210
+National ID: 4521 8934 1120
+
+Clinical Assessment:
+Diagnosis Code: K35.80
+Diagnosis Description: Acute Appendicitis
+Proposed Procedure Code: 47.09
+Procedure Description: Appendectomy
+Admission Date: 2026-10-25
+Attending Surgeon: Dr. V. Sharma, MS (General Surgery)

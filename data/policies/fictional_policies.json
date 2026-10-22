@@ -1,0 +1,30 @@
+[
+  {
+    "policy_id": "CARE-SHIELD-2026",
+    "policy_name": "CareShield Comprehensive Health Policy",
+    "section": "Coverage and Benefits",
+    "page": 3,
+    "clause": "SEC-3.1: Surgical treatments including appendectomy, joint replacements, and coronary interventions are covered up to the sum insured of INR 500,000, subject to standard pre-authorization."
+  },
+  {
+    "policy_id": "CARE-SHIELD-2026",
+    "policy_name": "CareShield Comprehensive Health Policy",
+    "section": "Sub-limits",
+    "page": 4,
+    "clause": "SEC-4.2: Cataract surgery carries a strict sub-limit of INR 40,000 per eye. Claims exceeding this limit shall be approved only up to the sub-limit ceiling."
+  },
+  {
+    "policy_id": "CARE-SHIELD-2026",
+    "policy_name": "CareShield Comprehensive Health Policy",
+    "section": "Waiting Periods and Exclusions",
+    "page": 5,
+    "clause": "SEC-5.1: Pre-existing conditions and joint replacement procedures carry a mandatory waiting period of 24 consecutive months from policy inception."
+  },
+  {
+    "policy_id": "CARE-SHIELD-2026",
+    "policy_name": "CareShield Comprehensive Health Policy",
+    "section": "Exclusions",
+    "page": 6,
+    "clause": "SEC-6.1: Cosmetic surgeries, experimental treatments, and unverified alternative therapies are strictly excluded from coverage."
+  }
+]

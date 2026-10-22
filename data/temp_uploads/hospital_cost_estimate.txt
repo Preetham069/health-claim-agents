@@ -1,0 +1,13 @@
+HOSPITAL CHARGES ESTIMATE & BILL BREAKDOWN
+Hospital Name: City Care Hospital
+Policy Number: CARE-SHIELD-2026
+Patient Name: Rajesh Kumar
+Procedure: Appendectomy (Code: 47.09)
+
+Estimated Cost Breakdown:
+- Surgeon & OT Charges: INR 28,000
+- Room & Nursing (2 days): INR 12,000
+- Investigations & Pharmacy: INR 15,000
+
+Total Estimated Cost: 55,000
+Authorized Signatory: City Care Billing Desk
