@@ -176,10 +176,3 @@ The system was evaluated against a 100-case synthetic clinical dataset (`data/sy
 * **Behavior**: Zero-egress standard for Protected Health Information (PHI) and PII.
 * **Mechanism**: Multi-pattern regex tokenization strips contact numbers, national IDs, and names.
 * **Result**: Zero PII strings propagated to synthetic downstream prompt contexts.
-Step 3: Commit and Push the Updates to GitHub
-Run these commands in your VS Code terminal to sync the updated documentation to GitHub:
-
-PowerShell
-git add README.md docs/evaluation_report.md
-git commit -m "docs: enrich project README and publish 100% benchmark evaluation report"
-git push origin main
